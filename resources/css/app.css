@@ -47,3 +47,152 @@ h1 {
     color: #27ae60;
     font-weight: bold;
 }
+
+.btn-detail {
+    display: inline-block;
+    margin-top: 12px;
+    padding: 8px 14px;
+    background-color: #3b82f6;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 0.9rem;
+}
+
+.btn-detail:hover {
+    background-color: #2563eb;
+}
+
+.detail-card {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+.product-desc {
+    color: #4b5563;
+    margin: 15px 0 25px 0;
+    line-height: 1.6;
+}
+
+.btn-back {
+    display: inline-block;
+    color: #6b7280;
+    text-decoration: none;
+    font-size: 0.95rem;
+}
+
+.btn-back:hover {
+    color: #111827;
+}
+
+.hero-card {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    text-align: center;
+}
+
+.hero-subtitle {
+    color: #4b5563;
+    font-size: 1.1rem;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    line-height: 1.6;
+}
+
+.info-box {
+    background-color: #f0fdf4;
+    border: 1px solid #bbf7d0;
+    color: #166534;
+    padding: 12px 20px;
+    border-radius: 8px;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
+.btn-primary {
+    display: inline-block;
+    background-color: #2563eb;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: background-color 0.2s;
+}
+
+.btn-primary:hover {
+    background-color: #1d4ed8;
+}
+
+.detail-card {
+    background-color: #ffffff;
+    padding: 35px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    max-width: 600px;
+    margin: 40px auto;
+}
+
+.badge {
+    background-color: #e0e7ff;
+    color: #4338ca;
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 4px 10px;
+    border-radius: 20px;
+    display: inline-block;
+    margin-bottom: 12px;
+}
+
+.detail-title {
+    font-size: 1.8rem;
+    color: #1f2937;
+    margin: 0 0 10px 0;
+}
+
+.detail-price {
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #16a34a;
+    margin-bottom: 20px;
+}
+
+.detail-section {
+    border-top: 1px solid #e5e7eb;
+    padding-top: 15px;
+    margin-top: 15px;
+}
+
+.detail-section h3 {
+    font-size: 1rem;
+    color: #4b5563;
+    margin-bottom: 8px;
+}
+
+.product-desc {
+    color: #374151;
+    line-height: 1.6;
+    margin: 0 0 25px 0;
+}
+
+.action-buttons {
+    margin-top: 25px;
+    border-top: 1px solid #e5e7eb;
+    padding-top: 20px;
+}
+
+.btn-back {
+    display: inline-block;
+    color: #4b5563;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s;
+}
+
+.btn-back:hover {
+    color: #1d4ed8;
+}
